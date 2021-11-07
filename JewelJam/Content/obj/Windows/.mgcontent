@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Oddinx/source/repos/JewelJam/JewelJam/Content/JewelJamFont.spritefont</File>
+    <File>C:/Users/Oddinx/source/repos/JewelJam/JewelJam/Content/snd_double.wav</File>
+    <File>C:/Users/Oddinx/source/repos/JewelJam/JewelJam/Content/snd_error.wav</File>
+    <File>C:/Users/Oddinx/source/repos/JewelJam/JewelJam/Content/snd_gameover.wav</File>
+    <File>C:/Users/Oddinx/source/repos/JewelJam/JewelJam/Content/snd_music.wma</File>
+    <File>C:/Users/Oddinx/source/repos/JewelJam/JewelJam/Content/snd_single.wav</File>
+    <File>C:/Users/Oddinx/source/repos/JewelJam/JewelJam/Content/snd_triple.wav</File>
+    <File>C:/Users/Oddinx/source/repos/JewelJam/JewelJam/Content/spr_background.jpg</File>
+    <File>C:/Users/Oddinx/source/repos/JewelJam/JewelJam/Content/spr_button_help.jpg</File>
+    <File>C:/Users/Oddinx/source/repos/JewelJam/JewelJam/Content/spr_double.png</File>
+    <File>C:/Users/Oddinx/source/repos/JewelJam/JewelJam/Content/spr_frame_help.png</File>
+    <File>C:/Users/Oddinx/source/repos/JewelJam/JewelJam/Content/spr_gameover.png</File>
+    <File>C:/Users/Oddinx/source/repos/JewelJam/JewelJam/Content/spr_jewelcart.png</File>
+    <File>C:/Users/Oddinx/source/repos/JewelJam/JewelJam/Content/spr_jewels.png</File>
+    <File>C:/Users/Oddinx/source/repos/JewelJam/JewelJam/Content/spr_scoreframe.jpg</File>
+    <File>C:/Users/Oddinx/source/repos/JewelJam/JewelJam/Content/spr_selector_frame.png</File>
+    <File>C:/Users/Oddinx/source/repos/JewelJam/JewelJam/Content/spr_title.jpg</File>
+    <File>C:/Users/Oddinx/source/repos/JewelJam/JewelJam/Content/spr_triple.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
